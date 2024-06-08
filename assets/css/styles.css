@@ -73,7 +73,6 @@ body {
   background-blend-mode: lighten;
   transition: all 350ms ease-in-out;
   border-radius: .35rem;
-  overflow: hidden;
 }
 
 #card .image:hover {
