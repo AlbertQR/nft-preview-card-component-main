@@ -72,7 +72,7 @@ body {
   cursor: pointer;
   background-blend-mode: lighten;
   transition: all 350ms ease-in-out;
-  border-radius: .35rem;
+  border-radius: .5rem;
 }
 
 #card .image:hover {
