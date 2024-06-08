@@ -67,12 +67,11 @@ body {
   width: 100%;
   background-image: url("../images/image-equilibrium.jpg");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   cursor: pointer;
   background-blend-mode: lighten;
   transition: all 350ms ease-in-out;
-  border-radius: .5rem;
-  overflow: hidden;
+  border-radius: .25rem;
 }
 
 #card .image:hover {
