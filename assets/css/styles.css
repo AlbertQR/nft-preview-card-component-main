@@ -63,7 +63,7 @@ body {
 #card .image {
   display: block;
   position: relative;
-  height: 19rem;
+  height: 18rem;
   width: 100%;
   background-image: url("../images/image-equilibrium.jpg");
   background-repeat: no-repeat;
@@ -71,7 +71,7 @@ body {
   cursor: pointer;
   background-blend-mode: lighten;
   transition: all 350ms ease-in-out;
-  border-radius: .25rem;
+  border-radius: .35rem;
   overflow: hidden;
 }
 
