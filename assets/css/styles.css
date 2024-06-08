@@ -68,6 +68,7 @@ body {
   background-image: url("../images/image-equilibrium.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
   cursor: pointer;
   background-blend-mode: lighten;
   transition: all 350ms ease-in-out;
